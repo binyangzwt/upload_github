@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="323c383e-87ca-4f96-86d3-7d3540fa1a1c" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="323c383e-87ca-4f96-86d3-7d3540fa1a1c" name="更改" comment="第一次修改，进行提交">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,14 +51,28 @@
       <workItem from="1727268872695" duration="2909000" />
       <workItem from="1727272197047" duration="1865000" />
       <workItem from="1727275369717" duration="443000" />
-      <workItem from="1727275982559" duration="788000" />
+      <workItem from="1727275982559" duration="1446000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次修改，进行提交">
+      <option name="closed" value="true" />
+      <created>1727276903010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727276903010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="d3cbf52e-661e-447b-aef3-ca5406999e56" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -79,7 +92,37 @@
             </State>
           </value>
         </entry>
+        <entry key="d3cbf52e-661e-447b-aef3-ca5406999e56">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="第一次修改，进行提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次修改，进行提交" />
   </component>
 </project>
