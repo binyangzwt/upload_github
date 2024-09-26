@@ -22,7 +22,11 @@ public class Main {
             int a=10;
 
             //进行第三次修改，
-            int b=5;
+
+
+
+            //添加c
+            int c=3;
         }
     }
 }
